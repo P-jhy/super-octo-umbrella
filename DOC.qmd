@@ -1,0 +1,10 @@
+---
+title: "Stuff"
+author: "Paul and Matei"
+format: html
+---
+
+```{r}
+print("Paul is king")
+```
+
