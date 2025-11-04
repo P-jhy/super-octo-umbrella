@@ -19,3 +19,7 @@ print("Matei is the KingEST_ER")
 print("If matei doesn't push he's a biiiiiiiiiiii")
 ```
 
+```{r}
+print("LOOOOOOSSSSEEEEERRRR cannnnn'''''ttttt pussshhhh")
+```
+
