@@ -12,3 +12,7 @@ print("Paul is king")
 print("Paul is KingEST")
 ```
 
+```{r}
+print("If matei doesn't push he's a biiiiiiiiiiii")
+```
+
